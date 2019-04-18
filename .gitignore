@@ -75,3 +75,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BuildingEscape/Intermediate
+BuildingEscape/Content/StarterContent
+BuildingEscape/Build
+BuildingEscape/Binaries
+BuildingEscape/Saved
